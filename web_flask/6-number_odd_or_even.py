@@ -1,16 +1,9 @@
 #!/usr/bin/python3
-<<<<<<< HEAD
 """
 A script that starts a Flask web application:
 """
-=======
-""" it add fifth view func that displays HTML page if n is int """
->>>>>>> f44ee2d87fc5aa53b6123fb4f099817475fd3c05
 
-from flask import Flask
 from flask import render_template
-
-<<<<<<< HEAD
 app = Flask(__name__)
 
 
